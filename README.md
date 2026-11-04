@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0f,50:0d1117,100:0a0a0f&height=165&section=header&text=RAKESH%20PATLOLLA&fontSize=48&fontColor=00d4ff&fontAlignY=55&desc=SOFTWARE%20DEVELOPER%20%7C%20PYTHON%20%7C%20BACKEND%20%7C%20FLUTTER&descSize=14&descAlignY=78&descColor=8b949e&stroke=00d4ff&strokeWidth=1.5&animation=blinking" alt="Rakesh Patlolla — Software Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0f,50:0d1117,100:0a0a0f&height=165&section=header&text=RAKESH%20PATLOLLA&fontSize=48&fontColor=00d4ff&fontAlignY=55&desc=SOFTWARE%20DEVELOPER%20%7C%20PYTHON%20%7C%20BACKEND%20%7C%20FLUTTER&descSize=14&descAlignY=78&descColor=8b949e&stroke=00d4ff&strokeWidth=1.5&animation=blinking" alt="Rakesh Reddy — Software Developer" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&height=50&lines=Building+useful+software%2C+one+commit+at+a+time;Python+%7C+FastAPI+%7C+Flask;Flutter+%7C+Node.js+%7C+MongoDB;Open+to+collaborate+%E2%80%94+let%27s+build+something)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-reddy-patlolla-34006b335)
-[![GitHub](https://img.shields.io/badge/GitHub-rakesh--1234245-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakesh-1234245)
-[![Email](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakeshpatlolla001@gmail.com)
+
 
 </div>
 
